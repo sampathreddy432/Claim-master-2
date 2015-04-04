@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D0CF3F1B-B72E-4D5B-B74C-0856E68891C0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AutoClaim</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DBAEE5C45C2B4DCDA9B2C6DB12A32047010B641E</key>
+		<string>https://github.com/sampathreddy432/Claim.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AutoClaim.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DBAEE5C45C2B4DCDA9B2C6DB12A32047010B641E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sampathreddy432/Claim.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DBAEE5C45C2B4DCDA9B2C6DB12A32047010B641E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DBAEE5C45C2B4DCDA9B2C6DB12A32047010B641E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AutoClaim</string>
+		</dict>
+	</array>
+</dict>
+</plist>
